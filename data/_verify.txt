@@ -1,1 +1,0 @@
-[design cell 2] 4. **Desfecho $Y$:** macro-F1 prioritário, mas guardamos **todas** as métricas que o paper reportar (F1 binário/weighted/micro, balanced accuracy, AUROC, AUPRC, MCC, G-mean, TPR gap, accuracy). A escolha da métrica de análise é deslocada para a fase de modelagem.
