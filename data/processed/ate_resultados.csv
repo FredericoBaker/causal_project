@@ -1,0 +1,5 @@
+estratégia,n,efeito % (wins.),IC95% baixo,IC95% alto,cruza 0?,papel
+oversampling,156,32.58,15.73,51.84,NÃO,principal
+cost_sensitive,79,24.28,7.47,49.25,NÃO,principal
+undersampling,32,32.37,-22.06,109.03,sim,exploratório
+other,158,40.7,16.73,72.71,NÃO,exploratório
