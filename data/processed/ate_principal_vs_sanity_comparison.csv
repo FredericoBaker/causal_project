@@ -1,0 +1,5 @@
+estratégia,principal_eff%,principal_IC_lo,principal_IC_hi,principal_sig?,sanity_eff%,sanity_IC_lo,sanity_IC_hi,sanity_sig?,Δ_eff%
+oversampling,32.58,15.73,51.84,SIM,100.78,-1.37,242.51,NÃO,68.2
+cost_sensitive,24.28,7.47,49.25,SIM,111.26,-87.96,380.24,NÃO,86.98
+undersampling,32.37,-22.06,109.03,NÃO,13.02,-93.48,218.85,NÃO,-19.35
+other,40.7,16.73,72.71,SIM,164.21,19.32,376.44,SIM,123.51

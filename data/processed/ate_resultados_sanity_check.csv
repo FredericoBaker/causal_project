@@ -1,0 +1,5 @@
+estratégia,n,efeito % (wins.),IC95% baixo,IC95% alto,cruza 0?
+oversampling,59,100.78,-1.37,242.51,sim
+cost_sensitive,2,111.26,-87.96,380.24,sim
+undersampling,8,13.02,-93.48,218.85,sim
+other,44,164.21,19.32,376.44,NÃO
